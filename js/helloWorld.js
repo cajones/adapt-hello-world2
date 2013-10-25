@@ -1,6 +1,6 @@
 define(["coreJS/adapt", "templates"], function(Adapt) {
     
-    Adapt.register('helloWorld', 'view', {
+    Adapt.register('helloWorld2', 'view', {
         
         el: "#wrapper",
         
