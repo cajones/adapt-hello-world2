@@ -1,0 +1,15 @@
+{
+  "name": "adapt-hello-world2",
+  "version": "0.0.4",
+  "homepage": "https://github.com/cajones/adapt-hello-world2",
+  "authors": [
+    "Chris Jones <chris.jones@spongeuk.com>"
+  ],
+  "description": "a really simple adapt plugin",
+  "main": "/js/helloWorld.js",
+  "keywords": [
+    "adapt-plugin",
+    "adapt-component"
+  ],
+  "license": "GPLv3"
+}
