@@ -7,6 +7,7 @@
   ],
   "description": "a really simple adapt plugin",
   "main": "/js/helloWorld.js",
+  "framework": "1.1.1",
   "keywords": [
     "adapt-plugin",
     "adapt-component"
